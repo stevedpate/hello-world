@@ -9,5 +9,9 @@ Here is **some bold** text
 
 ---
 
-Should be a line above this
+Should be a line above this. And now a line below:
+
+---
+
+# With a new Level 1 heading
 
